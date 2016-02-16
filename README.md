@@ -7,7 +7,7 @@ resulting absolute path to stdout.
 Installation
 ------------
 
-	go get github.com/Knorkebrot/realpath
+	go get github.com/bookerzzz/realpath
 
 Usage
 -----
